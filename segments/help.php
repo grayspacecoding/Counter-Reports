@@ -1,0 +1,1 @@
+<div data-ui="section" data-section="help" class="d-none">[Insert help form here]</div>
